@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some considerations touching the present debate between owners, &amp;c. and fisherman relating to the New-found-land trade, wherein the present project of obstructing passengers, by-boats, etc, is proved to be an unjust, sinister, envious, and unreasonable designe / humbly presented to supream consideration by the impartial pen of an eye-witness both of the designes of home and the trade abroad.</title>
+            <author>Impartial pen of an eye-witness both of the designes at home and the trade abroad.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60788</idno>
+            <idno type="STC">Wing S4496A</idno>
+            <idno type="STC">ESTC R32704</idno>
+            <idno type="EEBO-CITATION">12747386</idno>
+            <idno type="OCLC">ocm 12747386</idno>
+            <idno type="VID">93287</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60788)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93287)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1536:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some considerations touching the present debate between owners, &amp;c. and fisherman relating to the New-found-land trade, wherein the present project of obstructing passengers, by-boats, etc, is proved to be an unjust, sinister, envious, and unreasonable designe / humbly presented to supream consideration by the impartial pen of an eye-witness both of the designes of home and the trade abroad.</title>
+                  <author>Impartial pen of an eye-witness both of the designes at home and the trade abroad.</author>
+               </titleStmt>
+               <extent>[2], 21 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. and L. Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fish trade --  Law and legislation --  England.</term>
+               <term>Fish trade --  Newfoundland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93287:1"/>
+            <pb facs="tcp:93287:1" rendition="simple:additions"/>
+            <p>Some Conſiderations TOUCHING <hi>The preſent Debate between</hi> OWNERS, <hi>&amp;c. And</hi> FISHERMEN, <hi>relating</hi> TO The New-found-land Trade; WHEREIN <hi>The preſent Project of obſtructing</hi> Paſſengers, BY-BOATS, &amp;c. <hi>is proved to be an unjuſt, ſiniſter, envious, and unreaſonable deſigne.</hi>
+            </p>
+            <p>
+               <hi>Humbly Preſented to Supream Conſideration</hi> BY The Impartial Pen of an eye-witneſs both of the Deſignes at Home, and the Trade abroad.</p>
+            <q>
+               <l>Qui ſtatuit aliquid parte inauditâ alterâ,</l>
+               <l>Aequum licet ſtatuerit, haud aequus fuit.</l>
+               <bibl>
+                  <hi>Sen. Med.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>A.</hi> and <hi>L. LICHFIELD,</hi> Printers to the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93287:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:93287:2"/>
+            <head>Some Conſiderations touching the preſent Debate concerning <hi>Paſſengers,</hi> &amp;c. to NEWFO<g ref="char:V">Ʋ</g>ND-LAND.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT man (ſaith incomparable <hi>Bacon,</hi> Eſ. 9.) <hi>That hath no vertue in him<g ref="char:EOLhyphen"/>ſelf, envieth it in others.</hi> It is but to alter the terms, and ſay, <hi>A man that doth not proſper himſelf, envieth the proſperity of others.</hi> Too apparent will the truth of this be in the preſent Caſe, to any who ſhall impartially ſcan, and ſeriouſly enquire into the ground of the preſent project, which hath bin of late years on foot againſt a ſort of Induſtrious, Laborious men, carried on by a few ſiniſter perſons, who have practically and inter<g ref="char:EOLhyphen"/>pretatively told the world, that they deſign and con<g ref="char:EOLhyphen"/>trive to ingroſs to themſelves the bulk of that vaſt Trade (not unfitly reckoned among the moſt pro<g ref="char:EOLhyphen"/>fitable ones of the Nations) that of <hi>New-found-land Fiſhery:</hi> and this contention is blown into a flame by the groundleſs breath of miſled ignorance.
+<pb n="2" facs="tcp:93287:3"/>and the ſenſleſs clamours of ſome unreaſonable ſpi<g ref="char:EOLhyphen"/>rits, which like Dogs bark for company, and are con<g ref="char:EOLhyphen"/>tent to ſpeak as their Incendiaries doe, and without inquiring into the juſtneſs, or reaſonableneſs of the point, proceed like unjuſt Judges to condemn with<g ref="char:EOLhyphen"/>out hearing any thing from Defendant, or Adverſe party; who in this caſe to (ſpeak ſtrictly) paſs un<g ref="char:EOLhyphen"/>der an inevitable condemnation, for whatever is alleadged againſt them, by being incapable either with Money, Opportunity, Friends above, <hi>&amp;c.</hi> to countermine, anticipate, or meet with the deſignes of thoſe (who are too potent in all theſe) againſt them. Which too truly verifieth that of the Poet <hi>Petronius.</hi>
+            </p>
+            <q>
+               <l>Quiſ quis habet Nummos, ſecurâ naviget aurâ, Fortunam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſuo temperet arbitrio,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>xorem ducat Danaen, ipſum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> licebit Acriſium jubeat credere quod Danaen,</l>
+               <l>Carmina componat, declamet, concrepet, omnes Et peragat cauſ as, ſitque Catone prior,</l>
+               <l>Juris conſultus, <hi>paret, non paret,</hi> habeto, Atque eſto quiequid Servius aut Labeo.</l>
+               <l>Multa loquor: quidvis nummis praeſentibus opta, Et veniet, —</l>
+            </q>
+            <p>Before I enter into the bulk of the diſcourſe, give me leave to aſſure you, that I am altogether unconcerned on either ſide; nor do I ſtand in that relation to the one or other, as might bias my judg<g ref="char:EOLhyphen"/>ment,
+<pb n="3" facs="tcp:93287:3"/>or betray my reaſon to be partial, or pre<g ref="char:EOLhyphen"/>varicate for either party: I have received no Fee from either to make me write Sophiſtically, but having for four years been an eye-witneſs of the tranſactions at Home, as well as of the manner of Fiſhing Abroad in that Country, have thereby had opportunity to diſcern, the unreaſonableneſs of thoſe grounds propoſed to hinder the Defendants from following their labour, in the way of Fiſhing in thoſe parts. Which I have here publiſhed very conciſely, couching my Reaſons and diſcourſe in as few words, and narrow lines as poſſibly I could.</p>
+            <p>The Caſe <hi>Is thus,</hi> A few honeſt <hi>Fiſhermen</hi> ac<g ref="char:EOLhyphen"/>quainted with the <hi>New-found-land,</hi> joyn ſtocks together, hire men, provide themſelves with all neceſſary Proviſions for that Voyage; and not a<g ref="char:EOLhyphen"/>ble to act in the method of a <hi>Merchant,</hi> keep ſome, One <hi>Boat,</hi> others two, three, <hi>&amp;c.</hi> It may be, One <hi>Boat</hi> among two, or three men: A number of theſe <hi>Boat-keepers</hi> joyn &amp; fraight a Ship for the tranſportation of themſelves and proviſions: Some take paſſage at <hi>three pounds per</hi> man. Theſe (as others ſet forth by <hi>Merchants</hi>) Fiſh and labour very induſtriouſly, and run the ſame hazard in all reſpects that <hi>Merchants</hi> do, and thereby do frequently gain to themſelves ſome what more then by the wages uſually given by the <hi>Merchants,</hi> did they act in their imploy. Theſe men in every reſpect act as <hi>Maſters, Merchants, &amp;c.</hi> do.
+<pb n="4" facs="tcp:93287:4"/>They imploy <hi>Seamen</hi> on the ſame terms, They breed up <hi>Seamen,</hi> Fraight <hi>Ships, Fiſh,</hi> &amp;c. e<g ref="char:EOLhyphen"/>very way proportionable to any that uſe that Country: whereby they advance Trade, Increaſe the Kings <hi>Cuſtome, &amp;c.</hi> as much or more <hi>per Rato</hi> than other owners of <hi>Fiſhing voyages:</hi> many of which improperly call themſelves <hi>Merchants.</hi>
+            </p>
+            <p>Theſe men being generally of a more thriving and induſtrious nature than ſome others, and there<g ref="char:EOLhyphen"/>by ſucceeding better in their voyage then others, are therefore become of late the very objects of <hi>Merchants</hi> envy at home, and of <hi>Maſters</hi> (imployed on the ſame Trade) abroad, who wanting the like in<g ref="char:EOLhyphen"/>duſtry, and coming ſhort thereby of the like ſucceſs, do not ſeldom excuſe it with laying the ſubſequent charge againſt <hi>By-Boats:</hi> Evidently making good the words of that great <hi>Stateſman,</hi> the Lord <hi>Veru<g ref="char:EOLhyphen"/>lam,</hi> Eſ. 9. <hi>That man which cannot act in the vertue (of which Diligence is a part) of another, will ſeek to come at even hand with him, by ſeeking to depreſs the others fortune.</hi> And if it ſavour not too much of Cenſoriouſneſs and Barbariſm. <hi>Act. Apoſt.</hi> c. 28. v. 4. I would obſerve, That the Voyages immediately ſuceeding the time, when the Spleens of theſe poor mens Enemies had been moved moſt (whereby very few of them and thoſe by ſurreptition and ſtealth have bin able to ob<g ref="char:EOLhyphen"/>tain Tranſportation) have proved the worſt that
+<pb n="5" facs="tcp:93287:4"/>ever were in that Country, witneſs <hi>Anno D.</hi> 1664. What a <hi>Muddy</hi> ſtir was there made at <hi>Dartmouth,</hi> and the circumjacent Country againſt the poor <hi>By-Boats.</hi> What allegations were put into the <hi>Councel,</hi> and <hi>Parliament</hi> (if I miſtake not) which being un<g ref="char:EOLhyphen"/>anſwered by the Defendants, there was a <hi>ſuperſedeas</hi> clapt upon their intentions for <hi>New-found-land,</hi> and that year the Merchants made the worſt Voy<g ref="char:EOLhyphen"/>ages that were ever known before: And the year after the <hi>Dutch</hi> War coming in, <hi>de Rutter</hi> the <hi>Belgian</hi> Admiral went and burnt the Ships in that Country, in which none ſuffered more than thoſe that had bin moſt pertinacious againſt <hi>By-boats.</hi> I need not name any, and am unwilling to mea<g ref="char:EOLhyphen"/>ſure the length of any mans juſt proceedings by his proſperity, or to cenſure him of an evil heart by any adverſity, for time and chance hapeneth to all, and thoſe on whom the Tower in <hi>Siloam</hi> fell were not ſinners above all them in <hi>Jeruſalem,</hi> and do be<g ref="char:EOLhyphen"/>lieve goodneſs and greatneſs are not alwaies con<g ref="char:EOLhyphen"/>comitant.</p>
+            <p>But to proceed, The <hi>Dutch</hi> War happily end<g ref="char:EOLhyphen"/>ed, <hi>Merchants</hi> and <hi>By-boats,</hi> promiſcuouſly pro<g ref="char:EOLhyphen"/>vide for the <hi>Fiſhing</hi> without diſtinction or grudge, as if all former animoſity had been forgotten, and that year (1668) making great Voyages they are on all hands ſatisfied, and nothing at all objected againſt the <hi>By-boats:</hi> but in the year (1669)
+<pb n="6" facs="tcp:93287:5"/>the Ships make poor, and the <hi>By-boats</hi> generally great Voyages. Upon return to <hi>England,</hi> the feud is again fomented, and <hi>Merchants</hi> Petition again to the <hi>Privy Council,</hi> urging vehement complaints a<g ref="char:EOLhyphen"/>gainſt the <hi>By-boats;</hi> that they ruined the Trade, by ingroſſing the beſt Fiſhermen to themſelves, by giving greater wages then others can. Thoſe of <hi>Dartmouth, Plymouth, &amp;c.</hi> meet at <hi>Modbury</hi> a<g ref="char:EOLhyphen"/>bout that affair, (facetiouſly called the <hi>Modbury Juncto</hi>) but the iſſue came to late, for the Ships for <hi>Terra Nova</hi> were almoſt all gone before that came down into the <hi>Weſt:</hi> only ſome few had the unhappineſs to be behind, and were ſtopt.</p>
+            <p>Here let me not forget to obſerve, That at the very time the <hi>Weſt-Country Owners</hi> were acting, &amp; contriving the Premiſes at <hi>Modbury,</hi> Mr. <hi>Boughton</hi> their Factor in <hi>London</hi> played leaſt in ſight, with Five or Six Thouſand pounds of their Money, in which the Actors were moſtly concerned, and the <hi>By-boats</hi> not Eighty pounds upon my certain knowledge. And to ſecond that misfortune, This year there were made ſuch Voyages by the ſhips in general as the like was never known before, by any man; for though in the beginning of the Fiſh<g ref="char:EOLhyphen"/>ing, we have great hopes, yet the whole Schoole (as it is there termed) ſuddenly left them, as if Heaven would puniſh them with the torment of <hi>Tantalus:</hi> whereby the <hi>Merchants</hi> made not half as formerly,
+<pb n="7" facs="tcp:93287:5"/>and yet the diligent, and painful <hi>By-boats</hi> came off indifferently well. And now they are accoſted with more violence then before, and new methods pro<g ref="char:EOLhyphen"/>poſed for their eradication; New errours are al<g ref="char:EOLhyphen"/>leadged, though they had complied with the Arti<g ref="char:EOLhyphen"/>cles of the Patent of <hi>New-found-land</hi> inlarged by his preſent Majeſty; yet a new Project is ſet on foot, and that is to propoſe for an <hi>Act, That all the men in one Ship muſt be under one Maſter, and make one ſhare.</hi> What ſhall then the <hi>Planters</hi> do? They muſt be incouraged and ſupplyed, otherwiſe muſt leave the Country, which being not inhabi<g ref="char:EOLhyphen"/>ted is free for any other Nation; Poſſeſſion being the only inheritance thereof. But if this be com<g ref="char:EOLhyphen"/>plyed withal by them, if they thrive that way, then I am confident there will be new Errours found out. I remember I have read, that the Emperour <hi>Frederick</hi>'s Phyſitians being asked what did moſt ſharpen the ſight, it was variouſly anſwered, <hi>Her<g ref="char:EOLhyphen"/>ba Euphraſia, Foeniculi, Celendinae, Tutiae calam, Optick Glaſſes, &amp;c.</hi> A by-ſtander replyed, no<g ref="char:EOLhyphen"/>thing would do it better then <hi>Envy.</hi> It is clearly manifeſt that the complainers deſigns are wholy to Extirpate the Defendants, not to rectifie the miſcar<g ref="char:EOLhyphen"/>riages, and hinderances of the Trade, pretended to be created by them.</p>
+            <p>But I cannot but wonder how that aſſembly at <hi>Modbury</hi> could eſcape being noted as a <hi>Sedi<g ref="char:EOLhyphen"/>tious Confederacy,</hi> Many had the Sagacity to
+<pb n="8" facs="tcp:93287:6"/>avoid it who were yet enemies to <hi>By-boats:</hi> Sure<g ref="char:EOLhyphen"/>ly they had come within the Mulct of the <hi>Act</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Seditious Conventicles,</hi> had it been then in force, it being evident (according to the incom<g ref="char:EOLhyphen"/>parable Lord <hi>Bacon, ut ſupra</hi>) that <hi>Invidia,</hi> the La<g ref="char:EOLhyphen"/>tine word for <hi>Envy,</hi> goeth in the Modern Languages for <hi>Diſcontentment,</hi> and <hi>Sedition</hi> is the Effect of <hi>Diſcontent, &amp;c.</hi> Now that that act of the <hi>Plain<g ref="char:EOLhyphen"/>tiffs</hi> was Envious is apparent to any, Inaſmuch as (according to my own moſt certain knowledge) thoſe that do moſt ſtickle at it, do themſelves not only take <hi>Paſſengers</hi> to fraight on their own Ships, but have bin concerned in the Voyage with <hi>Boat-keepers.</hi> There remaineth now that I accumulate the general Objections urged by <hi>Merchants,</hi> and an<g ref="char:EOLhyphen"/>ſwering them I ſhall adde ſomthing in defence of <hi>By-boats.</hi>
+            </p>
+            <p>
+               <hi>Objection</hi> 1. The Firſt, and moſt ſeemingly for<g ref="char:EOLhyphen"/>midable of all their Arguments, or Objections is, <hi>That they ingroſs to themſelves the moſt able Fiſher<g ref="char:EOLhyphen"/>men in the Country: inducing them by large wages, and greater priviledges then can poſſibly be granted to ſuch as properly belong to Ships: Hereby the choice being taken off, none are left for the Mer<g ref="char:EOLhyphen"/>chants imploy but the inferiour, and leſſe capable ſort, by which the Ships are manned only with ſuch as may be ſaid to be the refuſe of the others.</hi>
+            </p>
+            <pb n="9" facs="tcp:93287:6"/>
+            <p>
+               <hi>Anſ.</hi> This is ſo notoriouſly falſe, that any man uſing the Country cannot but be acquainted, how that thoſe who one ſeaſon ſerved <hi>By-boats,</hi> ano<g ref="char:EOLhyphen"/>ther ſerve on Ships; and moſt do by a kind of Vi<g ref="char:EOLhyphen"/>ciſſitude or circulation, ſerve in either ſucceſſively, And indeed that which maketh thoſe in <hi>By-boats</hi> appear ſo able, is their extream diligence, and indefatigable labour, beyond thoſe of Ships; I mean in fiſhing, though God knoweth the Twelve labours of <hi>Hercules,</hi> had they bin really acted, were ſcarce able to endure competition with the ge<g ref="char:EOLhyphen"/>neral toil of men in this Country, which is ſo great as no tongue is able to expreſs it. Now that which prompts and incourageth them to this more then common diligence &amp; pains; is occaſioned by the po<g ref="char:EOLhyphen"/>licy of their Maſters, who concern the <hi>Boats-masters</hi> in ſome ſmall part of the voyage beyond their ſhares of the Thirds: A notable way and a ſpur to thoſe Horſes (in labour) which is not to be found in Ships crewes. Now I would fain know, If the world can produce a man, that will ſo much act beyond (were it poſſible) his own ſtrength to ſerve ano<g ref="char:EOLhyphen"/>ther, as to ſerve himſelf. I will inſtance one no<g ref="char:EOLhyphen"/>torious <hi>Example.</hi> There was one <hi>John Beard</hi> in 1668 that belonged to a Ship of fourteen Boats, up<g ref="char:EOLhyphen"/>on account of one Mr. <hi>Martyn</hi> their Owner of <hi>Ply<g ref="char:EOLhyphen"/>mouth,</hi> who proved ſo Lazy, Careleſs, and Una<g ref="char:EOLhyphen"/>ble, that at the return for <hi>England</hi> he was denied
+<pb n="10" facs="tcp:93287:7"/>his wages, and it was given to the Poor of the Pa<g ref="char:EOLhyphen"/>riſh he lived in: This ſame man, to my knowledge, the year after, becoming intereſted and part <hi>Owner</hi> of two <hi>Boats</hi> kept in St. <hi>Johns</hi> by one <hi>Robert Martyn,</hi> went himſelf Maſter of one of them, where night and day he ſo plied his work, that they made 320 and odd <hi>Kentals</hi> for each, when the common Voyages in the ſame Harbours were about 160 <hi>ken<g ref="char:EOLhyphen"/>tals per Boat:</hi> Several not 120 <hi>kent.</hi> This famous act of his induſtry made him reputed an able man again, and therefore was hired by a <hi>Planter</hi> in the ſame Harbour for 24<abbr>
+                  <hi>l.</hi>
+               </abbr> to be a Maſter of one ſingle <hi>Boat</hi> the poor <hi>Planter</hi> kept the following year: When being unintereſted, and having good wages, he fell to his old tricks, and caught leſs Fiſh for his <hi>Boat</hi> then any among two hundred that were then in the Harbour; and was trebly exceeded by many. I have known the like complained of by others.</p>
+            <p>
+               <hi>Object.</hi> 2. <hi>That the</hi> By-boats <hi>give greater wages, which hath raiſed men to that height, that</hi> Maſters <hi>cannot live to give it, nor</hi> Owners <hi>to allow it.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> But this is ſo weak and trivial, that it hard<g ref="char:EOLhyphen"/>ly merits anſwer, when it ſhall be conſidered, whe<g ref="char:EOLhyphen"/>ther <hi>Merchants,</hi> which ſet out for that deſign at cheaper rates then <hi>By-boats</hi> can do, who pay the deareſt rate for fraight, <hi>&amp;c.</hi> Every thing cannot live to give as good and as great incouragement
+<pb n="11" facs="tcp:93287:7"/>to men by wages as the others. Moreover, I have examined the Caſe, and found, that generally <hi>By-boats</hi> give far leſs then others. The <hi>None-Such</hi> of <hi>Dartmouth</hi> having 15 Boats-crew on private ac<g ref="char:EOLhyphen"/>count, had not one Boats-maſter (1670) that had above one ſhare and ſix pounds, whereas I know ſe<g ref="char:EOLhyphen"/>veral in Ships had one ſhare and eight pounds. If any to ſalve this alleadge, it is becauſe the men are moſtly willing and affected to the <hi>Boat-keepers,</hi> then the Objection is anſwered by themſelves, and their giving great wages is not that which injureth the <hi>Merchant,</hi> or inclineth the men from Ships accounts.</p>
+            <p>
+               <hi>Object.</hi> 3. <hi>That</hi> By-boats <hi>breed not up green men,</hi> viz <hi>carry Youths to Sea as Ships do, to nou<g ref="char:EOLhyphen"/>riſh them in the way of Trade, and for ſervice of his Majestie on occaſion at Sea.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Which is altogether untrue, for accord<g ref="char:EOLhyphen"/>ing to Rate they carry as many Youths as com<g ref="char:EOLhyphen"/>monly are belonging to the Ships. This is evi<g ref="char:EOLhyphen"/>dent to any one who ſhall but rightly examine it by an inquiry at home, or in the Country.</p>
+            <p>
+               <hi>Object.</hi> 4. New-England <hi>Fiſhery being decay<g ref="char:EOLhyphen"/>ed, is urged as an Argument againſt</hi> By-boats <hi>for</hi> Terra Nova, <hi>upon conſequence ſuppoſing the ſame fate to</hi> New-found-land, <hi>if they are permitted, as they have been in</hi> New-England.</p>
+            <pb n="12" facs="tcp:93287:8"/>
+            <p>
+               <hi>Anſ.</hi> This is purely Sophiſtical, and not lia<g ref="char:EOLhyphen"/>ble to any proof; For who can affirm, that <hi>By-boats</hi> have bin the cauſe of that: Indeed the Cul<g ref="char:EOLhyphen"/>tivation of the ground aſhore, the Amendment of the Air, and the Population of that Country may with good reaſon be urged in the caſe: For with<g ref="char:EOLhyphen"/>out doubt, there remains a kind of an Antipathy in thoſe Animals, as in all others, againſt whatever is humane, which is the effect of that awe God gave them to their Superiour Creature <hi>Man,</hi> as is evi<g ref="char:EOLhyphen"/>dent in all Animals of the Land, Sea, or Amphibious<g ref="char:punc">▪</g> And it is very probable to be occaſioned, as above, becauſe of the proximate Countries of <hi>Nova Scotiae, Terra Nova, &amp;c.</hi> where the land is uncultivated, and almoſt not inhabited, the Fiſh continueth almoſt as formerly, What abatement there is, may by any that own a Remunerative Juſtice and Provi<g ref="char:EOLhyphen"/>dence, be attributed in part to the Juſtice of Heaven, for our Ingratitude, Envy, <hi>&amp;c.</hi> and ſubordinate<g ref="char:EOLhyphen"/>ly to the frequent Fires in the Woods, whereby the <hi>Firr</hi> and <hi>Spruſs</hi> trees being burnt, the <hi>Turpen<g ref="char:EOLhyphen"/>tine</hi> and <hi>Tarr</hi> runs on the ground, which when Rain cometh is waſhed into the Rivers, whereby the Sea is alſo become imbittered, which deſtroyeth the Bait, and chaſeth off the Fiſh: It having been ob<g ref="char:EOLhyphen"/>ſerved to be true upon the great Fires, which often happen in the Woods, which though green is very combuſtible. But as to that of <hi>New-England,</hi> the
+<pb n="13" facs="tcp:93287:8"/>Fiſhing beginning to fail, <hi>Merchants</hi> were forced to forſake the Trade, upon which only (ſuch as are in <hi>New-found-land) By-boats</hi> enter into the Trade, and by their diligence (beyond Ships com<g ref="char:EOLhyphen"/>panies) they being but few, do live well upon the Trade, and do find Fiſh fourteen, ſixteen leagues from the land to be very plenty: which maketh for the truth of our ſuppoſition in the beginning of this Anſwer, <hi>viz.</hi> That the guſt of the waters are altered, which puts the Fiſh from the ſhore.</p>
+            <p>
+               <hi>Object.</hi> 5. <hi>That this being a matter of Trade properly belongeth to Merchants, for their Privi<g ref="char:EOLhyphen"/>ledges and way being incroacht upon, Trading by de<g ref="char:EOLhyphen"/>grees will fail.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> But how properly catching of Fiſh may be called the work of a <hi>Merchant</hi> any more then Planting <hi>Tobacco, Sugar, Indico,</hi> I know not, If ſo, there are more <hi>Merchants</hi> in <hi>Barking, Tarr<g ref="char:EOLhyphen"/>key, Bobicom, Looe, Mountsbay,</hi> and <hi>Sorlings,</hi> then in <hi>London.</hi> Moreover, the moſt of thoſe pre<g ref="char:EOLhyphen"/>tending injury by the <hi>By-boats</hi> in <hi>New-found-land,</hi> are no more <hi>Merchants</hi> then my ſelf, who am none, they being ſo only in Title, and impropriation; and ſo deſerve oppugnation as much as <hi>By-boats.</hi> Men of divers Trades at home, adventuring under the way and notion of <hi>Merchants,</hi> only to catch Fiſh, and ſell it there, to others, not hazarding it a<g ref="char:EOLhyphen"/>broad
+<pb n="14" facs="tcp:93287:9"/>themſelves, which is that which only merits the name of Trade: And theſe forſooth muſt ſub<g ref="char:EOLhyphen"/>ſcribe to the Petition againſt <hi>By-boats,</hi> under the name of <hi>We the Merchants, &amp;c.</hi>
+            </p>
+            <p>I know not what more can be Objected, or hath bin urged by the ſharpeſt enemies againſt <hi>By-boats,</hi> as the preſent caſe ſtandeth; and I verily believe were thoſe Articles ever ſo ſtrictly obſerved, which have been made againſt thoſe men, yet they thriv<g ref="char:EOLhyphen"/>ing that way, will queſtionleſs be reproached a<g ref="char:EOLhyphen"/>gain of being other waies inconvenient to the way of <hi>Fiſhery.</hi>
+            </p>
+            <p>We come now to our laſt work, the ſum and concluſion of the preſent Task, and that is to lay down ſome Arguments in behalf of thoſe envied men, in whoſe defence I have taken up the Gaunt<g ref="char:EOLhyphen"/>let, and undertook to anſwer the Challenge, and certainly I have that Charity for the Reaſons to be urged in their behalf, as to think they will ſatisfie any perſon, not altogether bent againſt Informati<g ref="char:EOLhyphen"/>on, and whoſe pertinacity is not Reaſon-proof.</p>
+            <p>
+               <hi>Firſt,</hi> That the violence of the oppoſitions uſed againſt theſe men hath but ſet them in a more ab<g ref="char:EOLhyphen"/>ſolute, and convenient way then they formerly act<g ref="char:EOLhyphen"/>ed in, for from being <hi>Paſſengers</hi> they drove them to fraight Ships, and ſome of them to be <hi>Owners.</hi> Under which way they cannot prevent or deny
+<pb n="15" facs="tcp:93287:9"/>them to follow the Fiſhery, except they deny the <hi>Merchants</hi> alſo: And do they ſtill proceed by their indirect oppoſition they will in fine rather advance, then any way ſuppreſs them, by compelling them to aſcend to be perfect <hi>Owners</hi> of Ships themſelves, and then they will be a greater Eye-ſore then now: Even as the Chriſtians thrived wonderfully under the moſt Barbarous Perſecution: and as by <hi>Anti<g ref="char:EOLhyphen"/>peristaſis,</hi> (ſome believe) Heat is fortified by the inviron of Cold, <hi>&amp; contra:</hi> So do theſe thrive and ſtrengthen under the evil eye of their Oppoſers; like <hi>Antaeus,</hi> and as <hi>Ovid de Arto Amandi</hi> ſaid of Love, <hi>Adverſo tempore, crevit amor;</hi> ſo I ſay of theſe Oppoſitions, <hi>Difficultas acuit co<g ref="char:EOLhyphen"/>natum.</hi>
+            </p>
+            <p n="2">2. That theſe <hi>By-boats</hi> are more advantagious in the Fiſhing then <hi>Ships crews,</hi> for their exceeding induſtry and ſucceſs, do catch more Fiſh generally according to proportion then the others, and at no greater charge of Men or Proviſions, (excepting Salt) then thoſe that poſſibly do not catch half ſo much: and my ſelf have known <hi>Maſters</hi> of Voy<g ref="char:EOLhyphen"/>ages acting for <hi>Merchants,</hi> (though profeſſed ene<g ref="char:EOLhyphen"/>mies to <hi>By-boats</hi>) have deſired to have had their Stages neareſt to thoſe of the <hi>By-boats,</hi> that the intereſted induſtry of the one, might be a ſpurr to the other, and moſt <hi>Maſters</hi> Fiſhing in any Harbour upon account of <hi>Merchants,</hi> will raile
+<pb n="16" facs="tcp:93287:10"/>and rebuke their Fiſhermen, for not bringing in as much Fiſh as thoſe of <hi>By-boats:</hi> Now if (as hath bin alleadged) the <hi>By-boats</hi> men are the moſt able, how can the Maſters expect their men to equal them? or what pertinence, or ground of complaint can be upon the compariſon of their own men with the others; when they bring not home the like quan<g ref="char:EOLhyphen"/>tity of Fiſh as others do, whom they confeſs to be far abler men, and make their difference to be the greateſt ground of their complaint at home?</p>
+            <p n="3">3. That men and Ships are imployed, Proviſions expended, Fiſh caught, <hi>&amp;c.</hi> every way proporti<g ref="char:EOLhyphen"/>onably by <hi>By-boats,</hi> as by the others, ſo that the King in his <hi>Cuſtome,</hi> or the Nation in the imployment of the people, <hi>&amp;c.</hi> have no cauſe of complaint.</p>
+            <p n="4">4. That many of the Complainers againſt <hi>By-boats,</hi> do tacitly accuſe themſelves, they deſerving no other name and appellation, although they aſ<g ref="char:EOLhyphen"/>ſume the Title of <hi>Merchants,</hi> when, <hi>de facto,</hi> they are of all Trades, and ſome the moſt inferiour Me<g ref="char:EOLhyphen"/>chanicks.</p>
+            <p n="5">5. That it is the Fiſhermens being intereſted in the Voyage (as I have ſaid) is the alone cauſe of their exceeding others, ſufficiently proved in the example above quoted.</p>
+            <p n="6">6. It is ſufficient profit for the <hi>Merchant</hi> to have the Sale and Tranſportation to the Market of all the fiſt catcht in the Land, and not to be alſo
+<pb n="17" facs="tcp:93287:10"/>Fiſhermen: as hath been already ſpoken to.</p>
+            <p n="7">7. That were the whole Trade ingroſt into the hands of ſuch as go not to the Country them<g ref="char:EOLhyphen"/>ſelves, both Maſters and Men would be conſtrain<g ref="char:EOLhyphen"/>ed to labour upon <hi>Merchants</hi> terms, which with the bad Voyages hath driven many to become <hi>By-boats,</hi> as themſelves have confeſſed: and were Men and Maſters brought to ſuch low wages as <hi>Merchants</hi> would give, they could not poſſibly live by the imployment; Now if thoſe that keep <hi>Boats</hi> can allow themſelves &amp; men good wages <hi>&amp;c.</hi> why cannot <hi>Merchants</hi> do the ſame?</p>
+            <p n="8">8. The real <hi>Merchants</hi> gain by thoſe men, who with the <hi>Planters</hi> are only <hi>Merchants</hi> to buy the <hi>Wine, Brandy, Malt, Salt, Bread, Proviſions, &amp;c.</hi> which is yearly Tranſported, by which the <hi>Mer<g ref="char:EOLhyphen"/>chants</hi> are often conſiderable gainers. Now if all were Ships crewes they would each bring his own Proviſions, and ſo nothing would be vendible to in<g ref="char:EOLhyphen"/>courage the <hi>Merchant</hi> to ſend thither to buy off the Fiſh.</p>
+            <p n="9">9. That a <hi>Merchant</hi> in <hi>Dartmouth,</hi> who hath all along appeared the moſt bitter and violent a<g ref="char:EOLhyphen"/>gainſt <hi>By-boats,</hi> and in <hi>Anno</hi> 1664 furiouſly act<g ref="char:EOLhyphen"/>ed againſt them, did, to my knowledge, in 1669 ſend two <hi>Boats crew paſsengers</hi> on a Ship wherein he was part concerned, and in a Ship of his at the ſame time permitted ſix men belonging to <hi>Thomas
+<pb n="18" facs="tcp:93287:11"/>Bickford</hi> a <hi>By-boat-keeper</hi> to have paſſage, and the ſame <hi>Bickford</hi> had four men more <hi>paſſengers</hi> upon a Ship wherein Mr. <hi>E. S.</hi> of <hi>London</hi> was concerned: The firſt <hi>Merchant</hi> hinted in this Arti<g ref="char:EOLhyphen"/>cle is Mr. <hi>A. M.</hi> the Ship called the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of <hi>Dartmouth,</hi> and Fiſhed that Voyage in St. <hi>Jones.</hi>
+            </p>
+            <p n="10">10. That the one quarter part of the pretenders to ſuffer by <hi>By-boats,</hi> and of thoſe that complain againſt them are altogether ignorant wherein the cauſe of that injury lyeth, and do no more underſtand the reaſons of thoſe things they proceed upon, then they do to build Caſtles in the Air; but being fed with the fancy of others, yelp out the ſame Lo<g ref="char:EOLhyphen"/>gick, and draw Concluſions without any other Premiſes then ſuch as they cannot make good (if denyed) but by quoting them as the opinion or dictates of another, without Reaſon or Demon<g ref="char:EOLhyphen"/>ſtration; and yet I obſerve none more active and vehement then thoſe. Nay further, I have ob<g ref="char:EOLhyphen"/>ſerved many pretending to the Title of <hi>Merchants,</hi> and altogether unconcern'd in the <hi>New-found-land</hi> Trade, have with ſuch ignorance declaimed a<g ref="char:EOLhyphen"/>gainſt <hi>By-boats,</hi> when upon examination they know not what <hi>By-boats</hi> were, and wherein the diſcrepancy between them and <hi>Merchants</hi> ſtood. So peremptory is the ignorance of <hi>Medlers,</hi> that they will give anſwer to queſtions they never heard ſtated: A gift I never met with, or heard
+<pb n="19" facs="tcp:93287:11"/>of in any meer Man, except <hi>Daniel,</hi> who in<g ref="char:EOLhyphen"/>deed Interpreted the King of <hi>Babylons</hi> Dream when it was not told him. Now let any judge of the validity of ſuch mens appearing in the Caſe, and what a grand abuſe is offered to the Honour of the Supream Powers by thus prevaricating in Peti<g ref="char:EOLhyphen"/>tions.</p>
+            <p>I will Conclude with one Obſervation I made lately: Being at the <hi>Poſt-houſe</hi> in — where <hi>Merchants</hi> meet to look for News and Letters, there came in a ſervant of a <hi>Merchant</hi> of the City (chiefly active againſt <hi>By-boats</hi>) and brought a Blank Sheet of Paper, and got above Forty ſub<g ref="char:EOLhyphen"/>ſcriptions to nothing; Now my ſelf being called to ſubſcribe, I demanded for what? The man anſwered it was to be put to a Petition againſt <hi>Paſſengers</hi> to the <hi>New-found-land,</hi> I refuſed, but ſaw ſeveral ſubſcribe for company ſake, who were neither <hi>Merchants,</hi> nor underſtood the matter: all that came for Letters put their hands to it, ex<g ref="char:EOLhyphen"/>cept my ſelf, and yet no Petition to be ſeen; ſo that they put their Names to they knew not what.</p>
+            <p>We hope theſe things will be conſidered, and the Laborious incouraged, and find the truth of thoſe Verſes of <hi>Claudian</hi>
+            </p>
+            <pb n="20" facs="tcp:93287:12"/>
+            <q>
+               <l>
+                  <hi>Fallitur, egregio quiſ qu is ſub principe credit</hi>
+               </l>
+               <l>
+                  <hi>Servitium: nunquam libertas gratior Extat</hi>
+               </l>
+               <l>
+                  <hi>Quam ſub Roge pio —</hi>
+               </l>
+               <l>He knows no bondage whom a good King ſwayes,</l>
+               <l>For freedom never ſhines with clearer rayes</l>
+               <l>Then when brave Princes Reign —</l>
+            </q>
+            <p>That which hath ſo vehemently Incenſed <hi>Mer<g ref="char:EOLhyphen"/>chants</hi> at home againſt <hi>By-boats,</hi> Is the bad Voya<g ref="char:EOLhyphen"/>ges which of late have been made in that Country, the cauſe of which hath been falſly layd on <hi>By-boats,</hi> when indeed the multitude of Ships &amp; Boats there, and the unreaſonable preſſing of Ships full of men, and the untimely and early departure of one before another is partly the cauſe, this year 1670 ſeveral departed 30 days before the main body of the <hi>Fleet,</hi> and only to anticipate and foreſtal others of places, whereby they were at a vaſter expence, and more<g ref="char:EOLhyphen"/>over did by the early intolerable cold almoſt kill the men, before the Fiſh came on the Coaſt; when thoſe that came laſt fared as well, &amp; with leſs charge to themſelves, and damage to their men, and ſo could better endure a bad Voyage then others. It would be better if all Ships were bound not to ſayle until <hi>March,</hi> and that the proportion of one man to two Tunnes were commanded, and that ſome abuſes in the Country were rectified, but of that
+<pb n="21" facs="tcp:93287:12"/>let thoſe endeavour the emendation, who are the ſufferers thereby.</p>
+            <p>I have no more to adde, only crave the Readers candor to wink at the faults of the <hi>Printer,</hi> or <hi>Author.</hi> I mean thoſe that are Literal: It was penned at firſt Raptive, and in haſt, and hath not had a due Re<g ref="char:EOLhyphen"/>viſion: The reaſon inducing me to be <hi>Anonymus,</hi> in this, relates to my ſelf. I am as unwilling to have the Smile of the one party, as to Inſence the Spleen of the other: I hope the not nameing the <hi>Author,</hi> will no way Invalidate, or prejudice the Diſcourſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
